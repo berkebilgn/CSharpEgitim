@@ -32,10 +32,10 @@ namespace _02_Veriables
             Console.WriteLine("---- Elma Birim Fiyatı: " + applePrice + " TL");
             Console.WriteLine("---- Portakal Birim fiyatı: " + orangePrice + " TL");
             Console.WriteLine("---- Çilek Birim Fiyatı: " + strawberryPrice + " TL");
-            Console.WriteLine("---- Patates Birim Fiyatı: "+ potatoPrice + " TL");
-            Console.WriteLine("---- Domates Birim Fiyatı: "+ tomatoPrice + " TL");
+            Console.WriteLine("---- Patates Birim Fiyatı: " + potatoPrice + " TL");
+            Console.WriteLine("---- Domates Birim Fiyatı: " + tomatoPrice + " TL");
 
-            double appleGram, orangeGram, strawberryGram, potatoGram , tomatoGram;
+            double appleGram, orangeGram, strawberryGram, potatoGram, tomatoGram;
             appleGram = 1.250;
             orangeGram = 1.750;
             strawberryGram = 0.750;
@@ -50,11 +50,11 @@ namespace _02_Veriables
             double potatoTotalPrice = potatoGram * potatoPrice;
             double tomatoTotalPrice = tomatoGram * tomatoPrice;
 
-            Console.WriteLine("Alınan ürün: Elma - " + "Birim Fiyatı: " + applePrice + " - Gramaj: " + appleGram + " - Toplam Tutar: "+ appleTotalPrice);
-            Console.WriteLine("Alınan ürün: Portakal - " + "Birim Fiyatı: " + orangePrice + " - Gramaj: " + orangeGram + " - Toplam Tutar: "+ orangeTotalPrice);
-            Console.WriteLine("Alınan ürün: Çilek - " + "Birim Fiyatı: " + strawberryPrice + " - Gramaj: " + strawberryGram + " - Toplam Tutar: "+ strawberryTotalPrice);
-            Console.WriteLine("Alınan ürün: Patates - " + "Birim Fiyatı: " + potatoPrice + " - Gramaj: " + potatoGram + " - Toplam Tutar: "+ potatoTotalPrice);
-            Console.WriteLine("Alınan ürün: Domates - " + "Birim Fiyatı: " + tomatoPrice + " - Gramaj: " + tomatoGram + " - Toplam Tutar: "+ tomatoTotalPrice);
+            Console.WriteLine("Alınan ürün: Elma - " + "Birim Fiyatı: " + applePrice + " - Gramaj: " + appleGram + " - Toplam Tutar: " + appleTotalPrice);
+            Console.WriteLine("Alınan ürün: Portakal - " + "Birim Fiyatı: " + orangePrice + " - Gramaj: " + orangeGram + " - Toplam Tutar: " + orangeTotalPrice);
+            Console.WriteLine("Alınan ürün: Çilek - " + "Birim Fiyatı: " + strawberryPrice + " - Gramaj: " + strawberryGram + " - Toplam Tutar: " + strawberryTotalPrice);
+            Console.WriteLine("Alınan ürün: Patates - " + "Birim Fiyatı: " + potatoPrice + " - Gramaj: " + potatoGram + " - Toplam Tutar: " + potatoTotalPrice);
+            Console.WriteLine("Alınan ürün: Domates - " + "Birim Fiyatı: " + tomatoPrice + " - Gramaj: " + tomatoGram + " - Toplam Tutar: " + tomatoTotalPrice);
             double shoppingTotalPrice = appleTotalPrice + orangeTotalPrice + strawberryTotalPrice + tomatoTotalPrice + potatoTotalPrice;
             Console.WriteLine();
             Console.WriteLine();
