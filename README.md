@@ -1,4 +1,4 @@
-⭐C# EĞİTİM KAMPI⭐
+⭐  C# EĞİTİM KAMPI  ⭐
 
 
 C# eğitimi, yazılım geliştirme için güçlü bir programlama dilini öğrenmek için mükemmel bir fırsattır. Microsoft’un nesne yönelimli dili olan C#, masaüstü ve web uygulamaları geliştirmede yaygın olarak kullanılır. Eğitimde Murat Yücedağ hocamız ile temel kavramlardan başlayarak C#’ın özelliklerini keşfedeceğiz.
