@@ -5,10 +5,10 @@ C# eğitimi, yazılım geliştirme için güçlü bir programlama dilini öğren
 
 
 📌 Ders 1: Merhaba Dünya!
-Bu derste, C# dilinde temel bir program yazarak "Merhaba Dünya!" mesajını ekrana yazdırdık.
+C# dilinde temel bir program yazarak "Merhaba Dünya!" mesajını ekrana yazdırdık.
 
 📌 Ders 2: Değişkenler
-Bu derste, C# dilinde farklı veri türlerinde değişkenler tanımladık ve bunları nasıl kullandığımızı öğrendik.
+C# dilinde farklı veri türlerinde değişkenler tanımladık ve bunları nasıl kullandığımızı öğrendik.
 
 📌 Ders 3: Diziler (Arrays)
 Dizilerin, aynı türde birden fazla veriyi saklamamıza olanak tanıdığını keşfettik ve dizilerin tanımını öğrendik.
