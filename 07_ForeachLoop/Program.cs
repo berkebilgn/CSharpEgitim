@@ -63,6 +63,7 @@ namespace _07_ForeachLoop
             #endregion
 
             #region Örnek Sınav Sistemi
+
             Console.WriteLine("***** C# Eğitim Kampı Sınav Uygulaması *****");
             Console.WriteLine();
 
